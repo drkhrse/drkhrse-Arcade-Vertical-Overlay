@@ -1,0 +1,24 @@
+{
+  "label": "                                                                                 ",
+  "icon": "/mnt/SDCARD/Icons/Burst! (Centered)/Emus/ARCADE_VERTICAL.png",
+  "iconsel": "",
+  "background": "/mnt/SDCARD/Backgrounds/Burst!/ARCADE_VERTICAL.png",
+  "themecolor": "EC7063",
+  "launch": "FBNEO.sh",
+  "rompath": "../../Roms/ARCADE_VERTICAL",
+  "imgpath": "../../Imgs/ARCADE_VERTICAL",
+  "useswap": 1,
+  "shortname": 1,
+  "hidebios": 1,
+  "extlist": "zip",
+  "launchlist": [
+    {
+      "name": "FB NEO",
+      "launch": "FBNEO.sh"
+    },
+    {
+      "name": "FB Alpha",
+      "launch": "FBAlpha.sh"
+    }
+  ]
+}
