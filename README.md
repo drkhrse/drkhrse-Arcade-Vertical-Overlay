@@ -29,4 +29,4 @@ If you get confused by any of these setup steps, check out the very detailed [ar
 - Create versions with overlays for shaders that are not distorted to CRT mask.
 
 ## Acknowledgements
-Big thanks to the [CrossMix-OS](https://github.com/cizia64/CrossMix-OS) devs, Russ at [Retro Game Corps](https://retrogamecorps.com/), and everyone who contribute to the community at the Retro Game Handhelds discord and the [TrimUI subreddit](https://www.reddit.com/r/trimui/) . **Enjoy!*
+Big thanks to Cizia for [CrossMix-OS](https://github.com/cizia64/CrossMix-OS), Russ at [Retro Game Corps](https://retrogamecorps.com/), and everyone who contribute to the community at the Retro Game Handhelds discord and the [TrimUI subreddit](https://www.reddit.com/r/trimui/) . **Enjoy!*
