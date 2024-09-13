@@ -25,5 +25,8 @@ By default I set the shader to fake-CRT-Geom since that seemed to be fast and di
 
 If you get confused by any of these setup steps, check out the very detailed [article](https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/) and [video](https://www.youtube.com/watch?v=srlJmZc3Ho4) by Russ at Retro Game Corps details how to use overlays, filters and shaders, much better than I get into here.
 
+## To Do
+- Create versions with overlays for shaders that are not distorted to CRT mask.
+
 ## Acknowledgements
 Big thanks to the [CrossMix-OS](https://github.com/cizia64/CrossMix-OS) devs, Russ at [Retro Game Corps](https://retrogamecorps.com/), and everyone who contribute to the community at the Retro Game Handhelds discord and the [TrimUI subreddit](https://www.reddit.com/r/trimui/) . **Enjoy!*
